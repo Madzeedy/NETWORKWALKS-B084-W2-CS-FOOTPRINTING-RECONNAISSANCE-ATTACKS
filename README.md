@@ -68,13 +68,14 @@ Types of Scans Performed
 
 Ping Scan:  Find active hosts
 
-2 hosts were live (including my PC), though it kept changing to 3; you will notice that in my screenshots because I had another device connecting and disconnecting.
+4 hosts were live (including my PC), though it kept changing to 3 or 2; you will notice that in my screenshots because other devices kept connecting and disconnecting.
 
 The IPs:
 192.168.1.254
 192.168.1.66
 
-***********
+<img width="873" height="645" alt="7" src="https://github.com/user-attachments/assets/e31cac7b-2a48-4752-9a3c-7ffbe7fbd8c5" />
+
 
 
 Quick Scan:   Check commonly used ports
