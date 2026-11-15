@@ -74,7 +74,7 @@ The IPs:
 192.168.1.254
 192.168.1.66
 
-<img width="1916" height="1058" alt="7" src="https://github.com/user-attachments/assets/ae22b527-0dba-4047-ba96-516d93ce4bc5" />
+***********
 
 
 Quick Scan:   Check commonly used ports
